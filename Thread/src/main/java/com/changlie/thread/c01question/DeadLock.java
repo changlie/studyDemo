@@ -1,5 +1,8 @@
 package com.changlie.thread.c01question;
 
+/**
+ * 死锁的问题
+ */
 public class DeadLock {
 
     static String A = "A";
